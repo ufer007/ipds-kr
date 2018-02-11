@@ -1,3 +1,4 @@
+#### test ####
 # 지저분한 코드 예
 sc<-function(x,y,verbose=TRUE) {
 n<-length(x)
